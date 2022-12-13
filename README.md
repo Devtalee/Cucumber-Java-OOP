@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Devtalee
+- 👀 I’m stand for Quality
+- 🌱 I’m currently learning QA Engineer
+- 💞️ I’m looking to collaborate on Qa Automation
+- 📫 /Devtalee
